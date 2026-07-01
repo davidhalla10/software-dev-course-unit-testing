@@ -54,3 +54,5 @@ const fakeProducts = [
     price: 39.99
   }
 ];
+
+module.exports = { calculateDiscount, filterProducts, sortInventory };
